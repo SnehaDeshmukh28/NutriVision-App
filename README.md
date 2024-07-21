@@ -55,6 +55,7 @@ NutriVision is a cutting-edge Streamlit application that leverages Google Genera
 ## Example
 
 1. **Upload an image**:
+
     ![Upload Food Item Example](images/FoodImageUpload.png)
 2. **View the analysis**:
     ## Sample 1
