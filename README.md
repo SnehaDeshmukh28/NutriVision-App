@@ -52,7 +52,7 @@ NutriVision is a cutting-edge Streamlit application that leverages Generative AI
 4. **Submit**:
     - Click the "Give detailed analysis" button to receive a detailed analysis of the uploaded image.
 
-## Example
+## Example 🖼️
 
 1. **Upload an image of the Food Item**:
 
@@ -68,7 +68,7 @@ NutriVision is a cutting-edge Streamlit application that leverages Generative AI
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Contact
+## Contact 📫
 
 If you have any questions, feel free to reach out to the project maintainers:
 
