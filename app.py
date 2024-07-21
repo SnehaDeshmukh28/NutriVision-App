@@ -31,9 +31,9 @@ def input_image_setup(uploaded_file):
     
 ##initialize our streamlit app
 
-st.set_page_config(page_title="Gemini Health App")
+st.set_page_config(page_title="NutriVision App 🥗")
 
-st.header("Food-Health App")
+st.header("NutriVision App 🥗")
 input=st.text_input("Input Prompt: ",key="input")
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 image=""   
@@ -42,7 +42,7 @@ if uploaded_file is not None:
     st.image(image, caption="Uploaded Image.", use_column_width=True)
 
 
-submit=st.button("Tell me the total calories")
+submit=st.button("Give detailed analysis")
 
 input_prompt="""
 You are an expert in nutritionist where you need to see the food items from the image then firstly give a short detailed
@@ -70,6 +70,6 @@ You are an expert in nutritionist where you need to see the food items from the 
 if submit:
     image_data=input_image_setup(uploaded_file)
     response=get_gemini_response(input_prompt,image_data)
-    st.subheader("The Response is")
+    st.subheader("Detailed analysis on the dish - ")
     st.write(response)
 
