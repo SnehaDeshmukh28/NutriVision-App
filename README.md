@@ -9,7 +9,7 @@ NutriVision is a cutting-edge Streamlit application that leverages Generative AI
 - **Health Evaluation 💪**: Determine whether the food is healthy and receive a breakdown of its nutritional content.
 - **Environmental Impact 🌍**: Assess the carbon footprint of the food items and get recommendations on their environmental friendliness.
 
-## Installation
+## Installation🛠️
 
 1. **Clone the repository**:
     ```bash
