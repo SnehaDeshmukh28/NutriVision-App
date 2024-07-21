@@ -77,4 +77,4 @@ If you have any questions, feel free to reach out to the project maintainers:
 
 ---
 
-Thank you for using NutriVision! We hope it helps you make informed decisions about your food choices and their impact on your health and the environment.
+Thank you for using NutriVision!🙏🏻 We hope it helps you make informed decisions about your food choices and their impact on your health and the environment.
