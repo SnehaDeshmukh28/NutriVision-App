@@ -1,13 +1,13 @@
-# NutriVision
+# NutriVision 🥗
 
 NutriVision is a cutting-edge Streamlit application that leverages Google Generative AI to analyze images of food items. It provides detailed descriptions, calculates total calorie intake, evaluates the nutritional content, and assesses the environmental impact of the food. 
 
 ## Features
 
-- **Image Upload**: Upload images of food items.
-- **Nutritional Analysis**: Get detailed descriptions and calorie counts for each food item in the image.
-- **Health Evaluation**: Determine whether the food is healthy and receive a breakdown of its nutritional content.
-- **Environmental Impact**: Assess the carbon footprint of the food items and get recommendations on their environmental friendliness.
+- **Image Upload 📷**: Upload images of food items.
+- **Nutritional Analysis 🍏**: Get detailed descriptions and calorie counts for each food item in the image.
+- **Health Evaluation 💪**: Determine whether the food is healthy and receive a breakdown of its nutritional content.
+- **Environmental Impact 🌍**: Assess the carbon footprint of the food items and get recommendations on their environmental friendliness.
 
 ## Installation
 
@@ -31,7 +31,7 @@ NutriVision is a cutting-edge Streamlit application that leverages Google Genera
 
 ## Configuration
 
-1. **Set up your Google API key**:
+1. **Set up your Google API key 🔑**:
     - Obtain an API key from the Google Cloud Console.
     - Create a `.env` file in the project directory and add your API key:
       ```plaintext
@@ -40,7 +40,7 @@ NutriVision is a cutting-edge Streamlit application that leverages Google Genera
 
 ## Usage
 
-1. **Run the Streamlit app**:
+1. **Run the Streamlit app 🚀**:
     ```bash
     streamlit run app.py
     ```
