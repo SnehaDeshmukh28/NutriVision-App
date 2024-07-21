@@ -50,14 +50,18 @@ NutriVision is a cutting-edge Streamlit application that leverages Google Genera
 3. **Enter a prompt**:
     - Input a prompt in the text box provided.
 4. **Submit**:
-    - Click the "Tell me the total calories" button to receive a detailed analysis of the uploaded image.
+    - Click the "Give detailed analysis" button to receive a detailed analysis of the uploaded image.
 
 ## Example
 
 1. **Upload an image**:
-    ![Upload Example](images/upload_example.png)
+    ![Upload Food Item Example](images/FoodImageUpload.png)
 2. **View the analysis**:
-    ![Analysis Example](images/analysis_example.png)
+    ## Sample 1
+    ![Analysis Example 1](images/PuranPoliAnalysis.png)
+
+    ## Sample 2
+    ![Analysis Example 2](images/Analysis.png)
 
 ## License
 
