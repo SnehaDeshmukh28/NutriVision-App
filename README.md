@@ -58,7 +58,7 @@ NutriVision is a cutting-edge Streamlit application that leverages Generative AI
 
     ![Upload Food Item Example](images/FoodImageUpload.png)
 2. **View the detailed analysis**:
-    ## Sample 1 - PuranPoli
+    ## Sample 1 - PuranPoli(Indian delicacy)
     ![Analysis Example 1](images/PuranPoliAnalysis.png)
 
     ## Sample 2 - French Salad
