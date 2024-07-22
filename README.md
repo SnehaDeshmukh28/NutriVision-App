@@ -1,6 +1,6 @@
 # NutriVision 🥗
 
-NutriVision is a cutting-edge Streamlit application that leverages Generative AI to analyze images of food items. It provides detailed descriptions, calculates total calorie intake, evaluates the nutritional content, and assesses the environmental impact of the food. 
+NutriVision is a cutting-edge application that leverages Generative AI to analyze images of food items. It provides detailed descriptions, calculates total calorie intake, evaluates the nutritional content, and assesses the environmental impact of the food. 
 
 ## Features
 
