@@ -73,3 +73,10 @@ if submit:
     st.subheader("Detailed analysis on the dish - ")
     st.write(response)
 
+    st.download_button(
+        label="Download Analysis Report",
+        data=response,
+        file_name='analysis_report.txt',
+        mime='text/plain'
+    )
+
